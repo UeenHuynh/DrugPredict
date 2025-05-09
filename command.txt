@@ -1,20 +1,20 @@
 python hyper_opti.py \
-  --data_path full_fingerprint_dataset.csv \
+  --data_path "benchmark_embedded.csv" \
   --save_path hp_results/ \
   --log_path hp.log \
   --max_evals 50
 
 python train.py \
-  --data_path        full_fingerprint_dataset.csv \
-  --save_path        checkpoint/        \
-  --log_path         train.log          \
-  --seed             42                 \
-  --num_folds        5                  \
-  --metric           auc                \
-  --task_num         1                  \
-  --task_names       Hepato             \
-  --batch_size       32                 \
-  --cuda              # bật nếu có GPU
+  --data_path "benchmark_embedded.csv" \
+  --save_path final_model/ \
+  --log_path final.log \
+  --fp_2_dim 500 \
+  --nhid 40 \
+  --nheads 7 \
+  --gat_scale 0.4 \
+  --dropout 0.35 \
+  --dropout_gat 0.1
+
 
 python predict.py \
   --predict_path   benchmarkdataset.smi \

@@ -1,3 +1,8 @@
 full_fingerprint_dataset.csv
 labelfingerprint.py
 buildfullfingerprint.py
+hp_results
+final.log
+hp.log
+final_model
+embbed.py

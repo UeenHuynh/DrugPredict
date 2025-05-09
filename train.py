@@ -6,14 +6,21 @@ import os
 import pandas as pd
 
 from dmfpga.train import fold_train
-from dmfpga.tool import set_log, set_train_argument, get_task_name, mkdir
+# from dmfpga.tool import set_train_argument as set_hyper_argument, set_log
+from dmfpga.tool import set_log, mkdir
+from dmfpga.tool import set_train_argument
+import joblib
 import torch, gc
 
 def training(args,log):
 
 
     info = log.info
-    
+    # ── Đảm bảo thư mục gốc tồn tại
+    mkdir(args.save_path)
+
+    # ── Lưu args để load lại sau này (train_args.pkl)
+    joblib.dump(args, os.path.join(args.save_path, 'train_args.pkl'))    
     seed_first = args.seed
     data_path = args.data_path
     save_path = args.save_path
@@ -77,6 +84,9 @@ def training(args,log):
 if __name__ == '__main__':
 
     args = set_train_argument()
+
+    # đảm bảo thư mục gốc tồn tại khi chạy trực tiếp
+    mkdir(args.save_path)
     np.random.seed(args.seed)
     torch.random.manual_seed(args.seed)
     log = set_log('train',args.log_path)
