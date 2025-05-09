@@ -1,0 +1,35 @@
+python hyper_opti.py \
+  --data_path full_fingerprint_dataset.csv \
+  --save_path hp_results/ \
+  --log_path hp.log \
+  --max_evals 50
+
+python train.py \
+  --data_path        full_fingerprint_dataset.csv \
+  --save_path        checkpoint/        \
+  --log_path         train.log          \
+  --seed             42                 \
+  --num_folds        5                  \
+  --metric           auc                \
+  --task_num         1                  \
+  --task_names       Hepato             \
+  --batch_size       32                 \
+  --cuda              # bật nếu có GPU
+
+python predict.py \
+  --predict_path   benchmarkdataset.smi \
+  --model_path     checkpoint/Seed_42   \
+  --result_path    predictions.csv      \
+  --batch_size     32                   \
+  --task_names     Hepato               \
+  --cuda             # nếu muốn dùng GPU
+
+python interpretation_fp.py \
+  --model_path checkpoint/Seed_42 \
+  --data_path benchmarkfingerprint_labeled.csv \
+  --out_dir interp_fp/
+
+python interpretation_graph.py \
+  --model_path checkpoint/Seed_42 \
+  --smiles_list some_list.smi \
+  --out_dir interp_graph/
