@@ -1,0 +1,16 @@
+full_fingerprint_dataset.csv
+labelfingerprint.py
+buildfullfingerprint.py
+hp_results
+final.log
+hp.log
+final_model
+embbed.py
+
+# VSCode settings
+.vscode/settings.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo

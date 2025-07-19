@@ -1,0 +1,124 @@
+2025-07-18 21:15:19,667 INFO: Seed 42
+2025-07-18 21:15:20,438 INFO: [final_model_best/Seed_42] Starting epoch 1/10
+2025-07-18 21:15:20,642 INFO: [final_model_best/Seed_42] Epoch 1 done in 0.20s
+2025-07-18 21:15:20,642 INFO: [final_model_best/Seed_42] Starting epoch 2/10
+2025-07-18 21:15:20,827 INFO: [final_model_best/Seed_42] Epoch 2 done in 0.19s
+2025-07-18 21:15:20,828 INFO: [final_model_best/Seed_42] Starting epoch 3/10
+2025-07-18 21:15:21,013 INFO: [final_model_best/Seed_42] Epoch 3 done in 0.19s
+2025-07-18 21:15:21,013 INFO: [final_model_best/Seed_42] Starting epoch 4/10
+2025-07-18 21:15:21,200 INFO: [final_model_best/Seed_42] Epoch 4 done in 0.19s
+2025-07-18 21:15:21,200 INFO: [final_model_best/Seed_42] Starting epoch 5/10
+2025-07-18 21:15:21,384 INFO: [final_model_best/Seed_42] Epoch 5 done in 0.18s
+2025-07-18 21:15:21,384 INFO: [final_model_best/Seed_42] Starting epoch 6/10
+2025-07-18 21:15:21,568 INFO: [final_model_best/Seed_42] Epoch 6 done in 0.18s
+2025-07-18 21:15:21,568 INFO: [final_model_best/Seed_42] Starting epoch 7/10
+2025-07-18 21:15:21,758 INFO: [final_model_best/Seed_42] Epoch 7 done in 0.19s
+2025-07-18 21:15:21,758 INFO: [final_model_best/Seed_42] Starting epoch 8/10
+2025-07-18 21:15:21,945 INFO: [final_model_best/Seed_42] Epoch 8 done in 0.19s
+2025-07-18 21:15:21,945 INFO: [final_model_best/Seed_42] Starting epoch 9/10
+2025-07-18 21:15:22,134 INFO: [final_model_best/Seed_42] Epoch 9 done in 0.19s
+2025-07-18 21:15:22,134 INFO: [final_model_best/Seed_42] Starting epoch 10/10
+2025-07-18 21:15:22,327 INFO: [final_model_best/Seed_42] Epoch 10 done in 0.19s
+2025-07-18 21:15:22,328 INFO: [final_model_best/Seed_42] Model saved to final_model_best/Seed_42/model.pt
+2025-07-18 21:15:22,328 INFO: [final_model_best/Seed_42] Completed fold in 2.66s
+2025-07-18 21:15:22,390 INFO: Seed 42
+2025-07-18 21:15:22,531 INFO: [final_model_best/Seed_43] Starting epoch 1/10
+2025-07-18 21:15:22,721 INFO: [final_model_best/Seed_43] Epoch 1 done in 0.19s
+2025-07-18 21:15:22,721 INFO: [final_model_best/Seed_43] Starting epoch 2/10
+2025-07-18 21:15:22,937 INFO: [final_model_best/Seed_43] Epoch 2 done in 0.22s
+2025-07-18 21:15:22,937 INFO: [final_model_best/Seed_43] Starting epoch 3/10
+2025-07-18 21:15:23,120 INFO: [final_model_best/Seed_43] Epoch 3 done in 0.18s
+2025-07-18 21:15:23,120 INFO: [final_model_best/Seed_43] Starting epoch 4/10
+2025-07-18 21:15:23,320 INFO: [final_model_best/Seed_43] Epoch 4 done in 0.20s
+2025-07-18 21:15:23,320 INFO: [final_model_best/Seed_43] Starting epoch 5/10
+2025-07-18 21:15:23,508 INFO: [final_model_best/Seed_43] Epoch 5 done in 0.19s
+2025-07-18 21:15:23,508 INFO: [final_model_best/Seed_43] Starting epoch 6/10
+2025-07-18 21:15:23,696 INFO: [final_model_best/Seed_43] Epoch 6 done in 0.19s
+2025-07-18 21:15:23,696 INFO: [final_model_best/Seed_43] Starting epoch 7/10
+2025-07-18 21:15:23,888 INFO: [final_model_best/Seed_43] Epoch 7 done in 0.19s
+2025-07-18 21:15:23,888 INFO: [final_model_best/Seed_43] Starting epoch 8/10
+2025-07-18 21:15:24,076 INFO: [final_model_best/Seed_43] Epoch 8 done in 0.19s
+2025-07-18 21:15:24,076 INFO: [final_model_best/Seed_43] Starting epoch 9/10
+2025-07-18 21:15:24,264 INFO: [final_model_best/Seed_43] Epoch 9 done in 0.19s
+2025-07-18 21:15:24,264 INFO: [final_model_best/Seed_43] Starting epoch 10/10
+2025-07-18 21:15:24,454 INFO: [final_model_best/Seed_43] Epoch 10 done in 0.19s
+2025-07-18 21:15:24,455 INFO: [final_model_best/Seed_43] Model saved to final_model_best/Seed_43/model.pt
+2025-07-18 21:15:24,456 INFO: [final_model_best/Seed_43] Completed fold in 2.07s
+2025-07-18 21:15:24,517 INFO: Seed 43
+2025-07-18 21:15:24,613 INFO: [final_model_best/Seed_44] Starting epoch 1/10
+2025-07-18 21:15:24,797 INFO: [final_model_best/Seed_44] Epoch 1 done in 0.18s
+2025-07-18 21:15:24,797 INFO: [final_model_best/Seed_44] Starting epoch 2/10
+2025-07-18 21:15:24,987 INFO: [final_model_best/Seed_44] Epoch 2 done in 0.19s
+2025-07-18 21:15:24,988 INFO: [final_model_best/Seed_44] Starting epoch 3/10
+2025-07-18 21:15:25,176 INFO: [final_model_best/Seed_44] Epoch 3 done in 0.19s
+2025-07-18 21:15:25,176 INFO: [final_model_best/Seed_44] Starting epoch 4/10
+2025-07-18 21:15:25,361 INFO: [final_model_best/Seed_44] Epoch 4 done in 0.18s
+2025-07-18 21:15:25,362 INFO: [final_model_best/Seed_44] Starting epoch 5/10
+2025-07-18 21:15:25,546 INFO: [final_model_best/Seed_44] Epoch 5 done in 0.18s
+2025-07-18 21:15:25,546 INFO: [final_model_best/Seed_44] Starting epoch 6/10
+2025-07-18 21:15:25,733 INFO: [final_model_best/Seed_44] Epoch 6 done in 0.19s
+2025-07-18 21:15:25,733 INFO: [final_model_best/Seed_44] Starting epoch 7/10
+2025-07-18 21:15:25,922 INFO: [final_model_best/Seed_44] Epoch 7 done in 0.19s
+2025-07-18 21:15:25,922 INFO: [final_model_best/Seed_44] Starting epoch 8/10
+2025-07-18 21:15:26,111 INFO: [final_model_best/Seed_44] Epoch 8 done in 0.19s
+2025-07-18 21:15:26,111 INFO: [final_model_best/Seed_44] Starting epoch 9/10
+2025-07-18 21:15:26,298 INFO: [final_model_best/Seed_44] Epoch 9 done in 0.19s
+2025-07-18 21:15:26,298 INFO: [final_model_best/Seed_44] Starting epoch 10/10
+2025-07-18 21:15:26,488 INFO: [final_model_best/Seed_44] Epoch 10 done in 0.19s
+2025-07-18 21:15:26,488 INFO: [final_model_best/Seed_44] Model saved to final_model_best/Seed_44/model.pt
+2025-07-18 21:15:26,488 INFO: [final_model_best/Seed_44] Completed fold in 1.97s
+2025-07-18 21:15:26,552 INFO: Seed 44
+2025-07-18 21:15:26,660 INFO: [final_model_best/Seed_45] Starting epoch 1/10
+2025-07-18 21:15:26,845 INFO: [final_model_best/Seed_45] Epoch 1 done in 0.18s
+2025-07-18 21:15:26,845 INFO: [final_model_best/Seed_45] Starting epoch 2/10
+2025-07-18 21:15:27,031 INFO: [final_model_best/Seed_45] Epoch 2 done in 0.19s
+2025-07-18 21:15:27,032 INFO: [final_model_best/Seed_45] Starting epoch 3/10
+2025-07-18 21:15:27,223 INFO: [final_model_best/Seed_45] Epoch 3 done in 0.19s
+2025-07-18 21:15:27,223 INFO: [final_model_best/Seed_45] Starting epoch 4/10
+2025-07-18 21:15:27,409 INFO: [final_model_best/Seed_45] Epoch 4 done in 0.19s
+2025-07-18 21:15:27,409 INFO: [final_model_best/Seed_45] Starting epoch 5/10
+2025-07-18 21:15:27,595 INFO: [final_model_best/Seed_45] Epoch 5 done in 0.19s
+2025-07-18 21:15:27,596 INFO: [final_model_best/Seed_45] Starting epoch 6/10
+2025-07-18 21:15:27,782 INFO: [final_model_best/Seed_45] Epoch 6 done in 0.19s
+2025-07-18 21:15:27,782 INFO: [final_model_best/Seed_45] Starting epoch 7/10
+2025-07-18 21:15:27,968 INFO: [final_model_best/Seed_45] Epoch 7 done in 0.19s
+2025-07-18 21:15:27,968 INFO: [final_model_best/Seed_45] Starting epoch 8/10
+2025-07-18 21:15:28,157 INFO: [final_model_best/Seed_45] Epoch 8 done in 0.19s
+2025-07-18 21:15:28,157 INFO: [final_model_best/Seed_45] Starting epoch 9/10
+2025-07-18 21:15:28,344 INFO: [final_model_best/Seed_45] Epoch 9 done in 0.19s
+2025-07-18 21:15:28,344 INFO: [final_model_best/Seed_45] Starting epoch 10/10
+2025-07-18 21:15:28,532 INFO: [final_model_best/Seed_45] Epoch 10 done in 0.19s
+2025-07-18 21:15:28,533 INFO: [final_model_best/Seed_45] Model saved to final_model_best/Seed_45/model.pt
+2025-07-18 21:15:28,533 INFO: [final_model_best/Seed_45] Completed fold in 1.98s
+2025-07-18 21:15:28,596 INFO: Seed 45
+2025-07-18 21:15:28,702 INFO: [final_model_best/Seed_46] Starting epoch 1/10
+2025-07-18 21:15:28,892 INFO: [final_model_best/Seed_46] Epoch 1 done in 0.19s
+2025-07-18 21:15:28,892 INFO: [final_model_best/Seed_46] Starting epoch 2/10
+2025-07-18 21:15:29,080 INFO: [final_model_best/Seed_46] Epoch 2 done in 0.19s
+2025-07-18 21:15:29,080 INFO: [final_model_best/Seed_46] Starting epoch 3/10
+2025-07-18 21:15:29,266 INFO: [final_model_best/Seed_46] Epoch 3 done in 0.19s
+2025-07-18 21:15:29,266 INFO: [final_model_best/Seed_46] Starting epoch 4/10
+2025-07-18 21:15:29,449 INFO: [final_model_best/Seed_46] Epoch 4 done in 0.18s
+2025-07-18 21:15:29,449 INFO: [final_model_best/Seed_46] Starting epoch 5/10
+2025-07-18 21:15:29,632 INFO: [final_model_best/Seed_46] Epoch 5 done in 0.18s
+2025-07-18 21:15:29,632 INFO: [final_model_best/Seed_46] Starting epoch 6/10
+2025-07-18 21:15:29,820 INFO: [final_model_best/Seed_46] Epoch 6 done in 0.19s
+2025-07-18 21:15:29,820 INFO: [final_model_best/Seed_46] Starting epoch 7/10
+2025-07-18 21:15:30,007 INFO: [final_model_best/Seed_46] Epoch 7 done in 0.19s
+2025-07-18 21:15:30,007 INFO: [final_model_best/Seed_46] Starting epoch 8/10
+2025-07-18 21:15:30,196 INFO: [final_model_best/Seed_46] Epoch 8 done in 0.19s
+2025-07-18 21:15:30,196 INFO: [final_model_best/Seed_46] Starting epoch 9/10
+2025-07-18 21:15:30,382 INFO: [final_model_best/Seed_46] Epoch 9 done in 0.19s
+2025-07-18 21:15:30,382 INFO: [final_model_best/Seed_46] Starting epoch 10/10
+2025-07-18 21:15:30,565 INFO: [final_model_best/Seed_46] Epoch 10 done in 0.18s
+2025-07-18 21:15:30,566 INFO: [final_model_best/Seed_46] Model saved to final_model_best/Seed_46/model.pt
+2025-07-18 21:15:30,566 INFO: [final_model_best/Seed_46] Completed fold in 1.97s
+2025-07-18 21:15:30,632 INFO: Running 5 folds in total.
+2025-07-18 21:15:30,632 INFO: test auc = 0.876626
+2025-07-18 21:15:30,632 INFO: test auc = 0.872892
+2025-07-18 21:15:30,632 INFO: test auc = 0.876967
+2025-07-18 21:15:30,632 INFO: test auc = 0.884257
+2025-07-18 21:15:30,632 INFO: test auc = 0.875064
+2025-07-18 21:15:30,632 INFO: Average train auc = 0.829474  acc = 0.861970  presion = 0.863251  recall = 0.888867
+2025-07-18 21:15:30,632 INFO: Average val auc = 0.942243  acc = 0.861970  presion = 0.863251  recall = 0.888867 spe = 0.829474
+2025-07-18 21:15:30,633 INFO:  test auc = 0.942243 ,  acc = 0.861970  presion = 0.863251  recall = 0.888867   spe = 0.829474

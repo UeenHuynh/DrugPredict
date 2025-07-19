@@ -1,0 +1,189 @@
+2025-07-18 21:11:22,773 INFO: Seed 42
+2025-07-18 21:11:23,553 INFO: [improved_model_v2/Seed_42] Starting epoch 1/30
+2025-07-18 21:11:23,779 INFO: [improved_model_v2/Seed_42] Epoch 1 done in 0.23s - Train Loss: 0.6919, Val Loss: 0.6697
+2025-07-18 21:11:23,779 INFO: [improved_model_v2/Seed_42] Starting epoch 2/30
+2025-07-18 21:11:23,994 INFO: [improved_model_v2/Seed_42] Epoch 2 done in 0.21s - Train Loss: 0.6543, Val Loss: 0.6798
+2025-07-18 21:11:23,994 INFO: [improved_model_v2/Seed_42] Starting epoch 3/30
+2025-07-18 21:11:24,207 INFO: [improved_model_v2/Seed_42] Epoch 3 done in 0.21s - Train Loss: 0.6142, Val Loss: 0.6917
+2025-07-18 21:11:24,207 INFO: [improved_model_v2/Seed_42] Starting epoch 4/30
+2025-07-18 21:11:24,420 INFO: [improved_model_v2/Seed_42] Epoch 4 done in 0.21s - Train Loss: 0.5614, Val Loss: 0.7476
+2025-07-18 21:11:24,420 INFO: [improved_model_v2/Seed_42] Starting epoch 5/30
+2025-07-18 21:11:24,632 INFO: [improved_model_v2/Seed_42] Epoch 5 done in 0.21s - Train Loss: 0.4993, Val Loss: 0.7958
+2025-07-18 21:11:24,632 INFO: [improved_model_v2/Seed_42] Starting epoch 6/30
+2025-07-18 21:11:24,842 INFO: [improved_model_v2/Seed_42] Epoch 6 done in 0.21s - Train Loss: 0.4528, Val Loss: 0.8962
+2025-07-18 21:11:24,842 INFO: [improved_model_v2/Seed_42] Starting epoch 7/30
+2025-07-18 21:11:25,059 INFO: [improved_model_v2/Seed_42] Epoch 7 done in 0.22s - Train Loss: 0.4064, Val Loss: 0.9711
+2025-07-18 21:11:25,059 INFO: [improved_model_v2/Seed_42] Starting epoch 8/30
+2025-07-18 21:11:25,285 INFO: [improved_model_v2/Seed_42] Epoch 8 done in 0.23s - Train Loss: 0.3428, Val Loss: 0.9963
+2025-07-18 21:11:25,286 INFO: [improved_model_v2/Seed_42] Starting epoch 9/30
+2025-07-18 21:11:25,506 INFO: [improved_model_v2/Seed_42] Epoch 9 done in 0.22s - Train Loss: 0.3240, Val Loss: 1.1041
+2025-07-18 21:11:25,506 INFO: [improved_model_v2/Seed_42] Starting epoch 10/30
+2025-07-18 21:11:25,721 INFO: [improved_model_v2/Seed_42] Epoch 10 done in 0.21s - Train Loss: 0.3145, Val Loss: 1.1185
+2025-07-18 21:11:25,721 INFO: [improved_model_v2/Seed_42] Starting epoch 11/30
+2025-07-18 21:11:25,922 INFO: [improved_model_v2/Seed_42] Epoch 11 done in 0.20s - Train Loss: 0.2982, Val Loss: 1.1847
+2025-07-18 21:11:25,922 INFO: [improved_model_v2/Seed_42] Starting epoch 12/30
+2025-07-18 21:11:26,123 INFO: [improved_model_v2/Seed_42] Epoch 12 done in 0.20s - Train Loss: 0.2788, Val Loss: 1.2115
+2025-07-18 21:11:26,123 INFO: [improved_model_v2/Seed_42] Starting epoch 13/30
+2025-07-18 21:11:26,330 INFO: [improved_model_v2/Seed_42] Epoch 13 done in 0.21s - Train Loss: 0.2815, Val Loss: 1.3104
+2025-07-18 21:11:26,330 INFO: [improved_model_v2/Seed_42] Starting epoch 14/30
+2025-07-18 21:11:26,536 INFO: [improved_model_v2/Seed_42] Epoch 14 done in 0.21s - Train Loss: 0.2410, Val Loss: 1.3314
+2025-07-18 21:11:26,536 INFO: [improved_model_v2/Seed_42] Starting epoch 15/30
+2025-07-18 21:11:26,737 INFO: [improved_model_v2/Seed_42] Epoch 15 done in 0.20s - Train Loss: 0.2285, Val Loss: 1.3779
+2025-07-18 21:11:26,737 INFO: [improved_model_v2/Seed_42] Starting epoch 16/30
+2025-07-18 21:11:26,865 INFO: Early stopping at epoch 16
+2025-07-18 21:11:26,868 INFO: Loaded best model for evaluation
+2025-07-18 21:11:26,869 INFO: [improved_model_v2/Seed_42] Model saved to improved_model_v2/Seed_42/model.pt
+2025-07-18 21:11:26,869 INFO: [improved_model_v2/Seed_42] Completed fold in 4.10s
+2025-07-18 21:11:26,958 INFO: Seed 42
+2025-07-18 21:11:27,069 INFO: [improved_model_v2/Seed_43] Starting epoch 1/30
+2025-07-18 21:11:27,288 INFO: [improved_model_v2/Seed_43] Epoch 1 done in 0.22s - Train Loss: 0.6896, Val Loss: 0.6848
+2025-07-18 21:11:27,289 INFO: [improved_model_v2/Seed_43] Starting epoch 2/30
+2025-07-18 21:11:27,520 INFO: [improved_model_v2/Seed_43] Epoch 2 done in 0.23s - Train Loss: 0.6564, Val Loss: 0.6935
+2025-07-18 21:11:27,520 INFO: [improved_model_v2/Seed_43] Starting epoch 3/30
+2025-07-18 21:11:27,742 INFO: [improved_model_v2/Seed_43] Epoch 3 done in 0.22s - Train Loss: 0.6076, Val Loss: 0.7216
+2025-07-18 21:11:27,742 INFO: [improved_model_v2/Seed_43] Starting epoch 4/30
+2025-07-18 21:11:27,958 INFO: [improved_model_v2/Seed_43] Epoch 4 done in 0.22s - Train Loss: 0.5582, Val Loss: 0.7584
+2025-07-18 21:11:27,959 INFO: [improved_model_v2/Seed_43] Starting epoch 5/30
+2025-07-18 21:11:28,166 INFO: [improved_model_v2/Seed_43] Epoch 5 done in 0.21s - Train Loss: 0.5185, Val Loss: 0.8145
+2025-07-18 21:11:28,166 INFO: [improved_model_v2/Seed_43] Starting epoch 6/30
+2025-07-18 21:11:28,374 INFO: [improved_model_v2/Seed_43] Epoch 6 done in 0.21s - Train Loss: 0.4678, Val Loss: 0.8677
+2025-07-18 21:11:28,374 INFO: [improved_model_v2/Seed_43] Starting epoch 7/30
+2025-07-18 21:11:28,585 INFO: [improved_model_v2/Seed_43] Epoch 7 done in 0.21s - Train Loss: 0.4455, Val Loss: 0.9081
+2025-07-18 21:11:28,585 INFO: [improved_model_v2/Seed_43] Starting epoch 8/30
+2025-07-18 21:11:28,789 INFO: [improved_model_v2/Seed_43] Epoch 8 done in 0.20s - Train Loss: 0.3788, Val Loss: 0.9922
+2025-07-18 21:11:28,789 INFO: [improved_model_v2/Seed_43] Starting epoch 9/30
+2025-07-18 21:11:28,997 INFO: [improved_model_v2/Seed_43] Epoch 9 done in 0.21s - Train Loss: 0.3430, Val Loss: 1.0601
+2025-07-18 21:11:28,997 INFO: [improved_model_v2/Seed_43] Starting epoch 10/30
+2025-07-18 21:11:29,203 INFO: [improved_model_v2/Seed_43] Epoch 10 done in 0.21s - Train Loss: 0.3331, Val Loss: 1.1198
+2025-07-18 21:11:29,203 INFO: [improved_model_v2/Seed_43] Starting epoch 11/30
+2025-07-18 21:11:29,414 INFO: [improved_model_v2/Seed_43] Epoch 11 done in 0.21s - Train Loss: 0.2964, Val Loss: 1.1347
+2025-07-18 21:11:29,414 INFO: [improved_model_v2/Seed_43] Starting epoch 12/30
+2025-07-18 21:11:29,617 INFO: [improved_model_v2/Seed_43] Epoch 12 done in 0.20s - Train Loss: 0.2898, Val Loss: 1.2137
+2025-07-18 21:11:29,617 INFO: [improved_model_v2/Seed_43] Starting epoch 13/30
+2025-07-18 21:11:29,820 INFO: [improved_model_v2/Seed_43] Epoch 13 done in 0.20s - Train Loss: 0.2873, Val Loss: 1.2829
+2025-07-18 21:11:29,820 INFO: [improved_model_v2/Seed_43] Starting epoch 14/30
+2025-07-18 21:11:30,022 INFO: [improved_model_v2/Seed_43] Epoch 14 done in 0.20s - Train Loss: 0.2573, Val Loss: 1.2851
+2025-07-18 21:11:30,022 INFO: [improved_model_v2/Seed_43] Starting epoch 15/30
+2025-07-18 21:11:30,235 INFO: [improved_model_v2/Seed_43] Epoch 15 done in 0.21s - Train Loss: 0.2542, Val Loss: 1.3191
+2025-07-18 21:11:30,235 INFO: [improved_model_v2/Seed_43] Starting epoch 16/30
+2025-07-18 21:11:30,349 INFO: Early stopping at epoch 16
+2025-07-18 21:11:30,350 INFO: Loaded best model for evaluation
+2025-07-18 21:11:30,351 INFO: [improved_model_v2/Seed_43] Model saved to improved_model_v2/Seed_43/model.pt
+2025-07-18 21:11:30,351 INFO: [improved_model_v2/Seed_43] Completed fold in 3.39s
+2025-07-18 21:11:30,418 INFO: Seed 43
+2025-07-18 21:11:30,528 INFO: [improved_model_v2/Seed_44] Starting epoch 1/30
+2025-07-18 21:11:30,736 INFO: [improved_model_v2/Seed_44] Epoch 1 done in 0.21s - Train Loss: 0.6906, Val Loss: 0.6890
+2025-07-18 21:11:30,736 INFO: [improved_model_v2/Seed_44] Starting epoch 2/30
+2025-07-18 21:11:30,943 INFO: [improved_model_v2/Seed_44] Epoch 2 done in 0.21s - Train Loss: 0.6568, Val Loss: 0.7000
+2025-07-18 21:11:30,943 INFO: [improved_model_v2/Seed_44] Starting epoch 3/30
+2025-07-18 21:11:31,151 INFO: [improved_model_v2/Seed_44] Epoch 3 done in 0.21s - Train Loss: 0.6213, Val Loss: 0.7224
+2025-07-18 21:11:31,151 INFO: [improved_model_v2/Seed_44] Starting epoch 4/30
+2025-07-18 21:11:31,366 INFO: [improved_model_v2/Seed_44] Epoch 4 done in 0.21s - Train Loss: 0.5686, Val Loss: 0.7657
+2025-07-18 21:11:31,366 INFO: [improved_model_v2/Seed_44] Starting epoch 5/30
+2025-07-18 21:11:31,577 INFO: [improved_model_v2/Seed_44] Epoch 5 done in 0.21s - Train Loss: 0.5184, Val Loss: 0.8673
+2025-07-18 21:11:31,577 INFO: [improved_model_v2/Seed_44] Starting epoch 6/30
+2025-07-18 21:11:31,802 INFO: [improved_model_v2/Seed_44] Epoch 6 done in 0.23s - Train Loss: 0.4682, Val Loss: 0.9207
+2025-07-18 21:11:31,803 INFO: [improved_model_v2/Seed_44] Starting epoch 7/30
+2025-07-18 21:11:32,010 INFO: [improved_model_v2/Seed_44] Epoch 7 done in 0.21s - Train Loss: 0.4181, Val Loss: 1.0382
+2025-07-18 21:11:32,010 INFO: [improved_model_v2/Seed_44] Starting epoch 8/30
+2025-07-18 21:11:32,222 INFO: [improved_model_v2/Seed_44] Epoch 8 done in 0.21s - Train Loss: 0.3766, Val Loss: 1.0699
+2025-07-18 21:11:32,222 INFO: [improved_model_v2/Seed_44] Starting epoch 9/30
+2025-07-18 21:11:32,438 INFO: [improved_model_v2/Seed_44] Epoch 9 done in 0.22s - Train Loss: 0.3421, Val Loss: 1.1447
+2025-07-18 21:11:32,438 INFO: [improved_model_v2/Seed_44] Starting epoch 10/30
+2025-07-18 21:11:32,646 INFO: [improved_model_v2/Seed_44] Epoch 10 done in 0.21s - Train Loss: 0.3283, Val Loss: 1.1956
+2025-07-18 21:11:32,647 INFO: [improved_model_v2/Seed_44] Starting epoch 11/30
+2025-07-18 21:11:32,856 INFO: [improved_model_v2/Seed_44] Epoch 11 done in 0.21s - Train Loss: 0.3063, Val Loss: 1.2336
+2025-07-18 21:11:32,856 INFO: [improved_model_v2/Seed_44] Starting epoch 12/30
+2025-07-18 21:11:33,067 INFO: [improved_model_v2/Seed_44] Epoch 12 done in 0.21s - Train Loss: 0.2902, Val Loss: 1.3337
+2025-07-18 21:11:33,068 INFO: [improved_model_v2/Seed_44] Starting epoch 13/30
+2025-07-18 21:11:33,276 INFO: [improved_model_v2/Seed_44] Epoch 13 done in 0.21s - Train Loss: 0.2750, Val Loss: 1.3562
+2025-07-18 21:11:33,277 INFO: [improved_model_v2/Seed_44] Starting epoch 14/30
+2025-07-18 21:11:33,484 INFO: [improved_model_v2/Seed_44] Epoch 14 done in 0.21s - Train Loss: 0.2415, Val Loss: 1.3888
+2025-07-18 21:11:33,484 INFO: [improved_model_v2/Seed_44] Starting epoch 15/30
+2025-07-18 21:11:33,695 INFO: [improved_model_v2/Seed_44] Epoch 15 done in 0.21s - Train Loss: 0.2299, Val Loss: 1.4702
+2025-07-18 21:11:33,695 INFO: [improved_model_v2/Seed_44] Starting epoch 16/30
+2025-07-18 21:11:33,822 INFO: Early stopping at epoch 16
+2025-07-18 21:11:33,823 INFO: Loaded best model for evaluation
+2025-07-18 21:11:33,824 INFO: [improved_model_v2/Seed_44] Model saved to improved_model_v2/Seed_44/model.pt
+2025-07-18 21:11:33,824 INFO: [improved_model_v2/Seed_44] Completed fold in 3.41s
+2025-07-18 21:11:33,890 INFO: Seed 44
+2025-07-18 21:11:34,000 INFO: [improved_model_v2/Seed_45] Starting epoch 1/30
+2025-07-18 21:11:34,213 INFO: [improved_model_v2/Seed_45] Epoch 1 done in 0.21s - Train Loss: 0.6929, Val Loss: 0.6889
+2025-07-18 21:11:34,213 INFO: [improved_model_v2/Seed_45] Starting epoch 2/30
+2025-07-18 21:11:34,424 INFO: [improved_model_v2/Seed_45] Epoch 2 done in 0.21s - Train Loss: 0.6469, Val Loss: 0.6893
+2025-07-18 21:11:34,424 INFO: [improved_model_v2/Seed_45] Starting epoch 3/30
+2025-07-18 21:11:34,637 INFO: [improved_model_v2/Seed_45] Epoch 3 done in 0.21s - Train Loss: 0.6096, Val Loss: 0.7146
+2025-07-18 21:11:34,638 INFO: [improved_model_v2/Seed_45] Starting epoch 4/30
+2025-07-18 21:11:34,851 INFO: [improved_model_v2/Seed_45] Epoch 4 done in 0.21s - Train Loss: 0.5542, Val Loss: 0.7518
+2025-07-18 21:11:34,851 INFO: [improved_model_v2/Seed_45] Starting epoch 5/30
+2025-07-18 21:11:35,064 INFO: [improved_model_v2/Seed_45] Epoch 5 done in 0.21s - Train Loss: 0.4968, Val Loss: 0.8109
+2025-07-18 21:11:35,065 INFO: [improved_model_v2/Seed_45] Starting epoch 6/30
+2025-07-18 21:11:35,278 INFO: [improved_model_v2/Seed_45] Epoch 6 done in 0.21s - Train Loss: 0.4596, Val Loss: 0.8489
+2025-07-18 21:11:35,278 INFO: [improved_model_v2/Seed_45] Starting epoch 7/30
+2025-07-18 21:11:35,488 INFO: [improved_model_v2/Seed_45] Epoch 7 done in 0.21s - Train Loss: 0.4137, Val Loss: 0.9719
+2025-07-18 21:11:35,488 INFO: [improved_model_v2/Seed_45] Starting epoch 8/30
+2025-07-18 21:11:35,704 INFO: [improved_model_v2/Seed_45] Epoch 8 done in 0.22s - Train Loss: 0.3722, Val Loss: 0.9774
+2025-07-18 21:11:35,704 INFO: [improved_model_v2/Seed_45] Starting epoch 9/30
+2025-07-18 21:11:35,919 INFO: [improved_model_v2/Seed_45] Epoch 9 done in 0.21s - Train Loss: 0.3269, Val Loss: 1.0394
+2025-07-18 21:11:35,919 INFO: [improved_model_v2/Seed_45] Starting epoch 10/30
+2025-07-18 21:11:36,174 INFO: [improved_model_v2/Seed_45] Epoch 10 done in 0.25s - Train Loss: 0.2992, Val Loss: 1.0930
+2025-07-18 21:11:36,174 INFO: [improved_model_v2/Seed_45] Starting epoch 11/30
+2025-07-18 21:11:36,392 INFO: [improved_model_v2/Seed_45] Epoch 11 done in 0.22s - Train Loss: 0.3105, Val Loss: 1.1582
+2025-07-18 21:11:36,393 INFO: [improved_model_v2/Seed_45] Starting epoch 12/30
+2025-07-18 21:11:36,606 INFO: [improved_model_v2/Seed_45] Epoch 12 done in 0.21s - Train Loss: 0.2890, Val Loss: 1.1820
+2025-07-18 21:11:36,606 INFO: [improved_model_v2/Seed_45] Starting epoch 13/30
+2025-07-18 21:11:36,824 INFO: [improved_model_v2/Seed_45] Epoch 13 done in 0.22s - Train Loss: 0.2902, Val Loss: 1.2188
+2025-07-18 21:11:36,824 INFO: [improved_model_v2/Seed_45] Starting epoch 14/30
+2025-07-18 21:11:37,043 INFO: [improved_model_v2/Seed_45] Epoch 14 done in 0.22s - Train Loss: 0.2512, Val Loss: 1.2819
+2025-07-18 21:11:37,044 INFO: [improved_model_v2/Seed_45] Starting epoch 15/30
+2025-07-18 21:11:37,257 INFO: [improved_model_v2/Seed_45] Epoch 15 done in 0.21s - Train Loss: 0.2596, Val Loss: 1.2974
+2025-07-18 21:11:37,257 INFO: [improved_model_v2/Seed_45] Starting epoch 16/30
+2025-07-18 21:11:37,386 INFO: Early stopping at epoch 16
+2025-07-18 21:11:37,388 INFO: Loaded best model for evaluation
+2025-07-18 21:11:37,390 INFO: [improved_model_v2/Seed_45] Model saved to improved_model_v2/Seed_45/model.pt
+2025-07-18 21:11:37,390 INFO: [improved_model_v2/Seed_45] Completed fold in 3.50s
+2025-07-18 21:11:37,463 INFO: Seed 45
+2025-07-18 21:11:37,579 INFO: [improved_model_v2/Seed_46] Starting epoch 1/30
+2025-07-18 21:11:37,805 INFO: [improved_model_v2/Seed_46] Epoch 1 done in 0.23s - Train Loss: 0.6873, Val Loss: 0.7040
+2025-07-18 21:11:37,805 INFO: [improved_model_v2/Seed_46] Starting epoch 2/30
+2025-07-18 21:11:38,037 INFO: [improved_model_v2/Seed_46] Epoch 2 done in 0.23s - Train Loss: 0.6502, Val Loss: 0.7163
+2025-07-18 21:11:38,037 INFO: [improved_model_v2/Seed_46] Starting epoch 3/30
+2025-07-18 21:11:38,251 INFO: [improved_model_v2/Seed_46] Epoch 3 done in 0.21s - Train Loss: 0.6113, Val Loss: 0.7504
+2025-07-18 21:11:38,251 INFO: [improved_model_v2/Seed_46] Starting epoch 4/30
+2025-07-18 21:11:38,460 INFO: [improved_model_v2/Seed_46] Epoch 4 done in 0.21s - Train Loss: 0.5535, Val Loss: 0.8220
+2025-07-18 21:11:38,460 INFO: [improved_model_v2/Seed_46] Starting epoch 5/30
+2025-07-18 21:11:38,670 INFO: [improved_model_v2/Seed_46] Epoch 5 done in 0.21s - Train Loss: 0.5002, Val Loss: 0.8834
+2025-07-18 21:11:38,671 INFO: [improved_model_v2/Seed_46] Starting epoch 6/30
+2025-07-18 21:11:38,884 INFO: [improved_model_v2/Seed_46] Epoch 6 done in 0.21s - Train Loss: 0.4513, Val Loss: 0.9867
+2025-07-18 21:11:38,884 INFO: [improved_model_v2/Seed_46] Starting epoch 7/30
+2025-07-18 21:11:39,094 INFO: [improved_model_v2/Seed_46] Epoch 7 done in 0.21s - Train Loss: 0.4260, Val Loss: 1.0050
+2025-07-18 21:11:39,094 INFO: [improved_model_v2/Seed_46] Starting epoch 8/30
+2025-07-18 21:11:39,306 INFO: [improved_model_v2/Seed_46] Epoch 8 done in 0.21s - Train Loss: 0.3481, Val Loss: 1.1230
+2025-07-18 21:11:39,306 INFO: [improved_model_v2/Seed_46] Starting epoch 9/30
+2025-07-18 21:11:39,519 INFO: [improved_model_v2/Seed_46] Epoch 9 done in 0.21s - Train Loss: 0.3111, Val Loss: 1.2264
+2025-07-18 21:11:39,519 INFO: [improved_model_v2/Seed_46] Starting epoch 10/30
+2025-07-18 21:11:39,730 INFO: [improved_model_v2/Seed_46] Epoch 10 done in 0.21s - Train Loss: 0.3280, Val Loss: 1.2517
+2025-07-18 21:11:39,730 INFO: [improved_model_v2/Seed_46] Starting epoch 11/30
+2025-07-18 21:11:39,952 INFO: [improved_model_v2/Seed_46] Epoch 11 done in 0.22s - Train Loss: 0.3045, Val Loss: 1.2501
+2025-07-18 21:11:39,952 INFO: [improved_model_v2/Seed_46] Starting epoch 12/30
+2025-07-18 21:11:40,168 INFO: [improved_model_v2/Seed_46] Epoch 12 done in 0.22s - Train Loss: 0.2723, Val Loss: 1.3391
+2025-07-18 21:11:40,168 INFO: [improved_model_v2/Seed_46] Starting epoch 13/30
+2025-07-18 21:11:40,392 INFO: [improved_model_v2/Seed_46] Epoch 13 done in 0.22s - Train Loss: 0.2862, Val Loss: 1.3616
+2025-07-18 21:11:40,392 INFO: [improved_model_v2/Seed_46] Starting epoch 14/30
+2025-07-18 21:11:40,622 INFO: [improved_model_v2/Seed_46] Epoch 14 done in 0.23s - Train Loss: 0.2457, Val Loss: 1.4335
+2025-07-18 21:11:40,622 INFO: [improved_model_v2/Seed_46] Starting epoch 15/30
+2025-07-18 21:11:40,833 INFO: [improved_model_v2/Seed_46] Epoch 15 done in 0.21s - Train Loss: 0.2560, Val Loss: 1.4574
+2025-07-18 21:11:40,833 INFO: [improved_model_v2/Seed_46] Starting epoch 16/30
+2025-07-18 21:11:40,948 INFO: Early stopping at epoch 16
+2025-07-18 21:11:40,950 INFO: Loaded best model for evaluation
+2025-07-18 21:11:40,951 INFO: [improved_model_v2/Seed_46] Model saved to improved_model_v2/Seed_46/model.pt
+2025-07-18 21:11:40,951 INFO: [improved_model_v2/Seed_46] Completed fold in 3.49s
+2025-07-18 21:11:41,015 INFO: Running 5 folds in total.
+2025-07-18 21:11:41,015 INFO: test auc = 0.636208
+2025-07-18 21:11:41,015 INFO: test auc = 0.629307
+2025-07-18 21:11:41,015 INFO: test auc = 0.597035
+2025-07-18 21:11:41,016 INFO: test auc = 0.631096
+2025-07-18 21:11:41,016 INFO: test auc = 0.622791
+2025-07-18 21:11:41,016 INFO: Average train auc = 0.692972  acc = 0.622775  precision = 0.608440  recall = 0.878800
+2025-07-18 21:11:41,016 INFO: Average val auc = 0.692972  acc = 0.622775  precision = 0.608440  recall = 0.878800  specificity = 0.313450
+2025-07-18 21:11:41,016 INFO: test auc = 0.692972 ± 0.008502  acc = 0.622775 ± 0.014151  precision = 0.608440 ± 0.015397  recall = 0.878800 ± 0.041810  specificity = 0.313450 ± 0.080251
